@@ -4,7 +4,7 @@
 - 🏙️ Moro em Boituva
 - ⏳ Tenho 17 Anos
 - 🏫 Estudo no SESI
-- Pronome Ele/Dele
+- Pronome: Ele/Dele
 
   <div>
   <a href="https://github.com/MathMartiin">
